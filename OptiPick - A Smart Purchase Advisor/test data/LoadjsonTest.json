@@ -1,0 +1,20 @@
+{
+    "budget": 50000.0,
+    "products": [
+        {
+            "Name": "Oneplus Pad Go",
+            "Price": 20000.0,
+            "Features": "Cost Efficiency, Quality, Durability, User Experience, Support & Maintenance",
+            "Score": 49,
+            "Priority": 3
+        },
+        {
+            "Name": "Asus Laptop",
+            "Price": 65000.0,
+            "Features": "Quality, Durability, User Experience, Support & Maintenance, Long-Term Value",
+            "Score": 38,
+            "Priority": 5
+        }
+    ]
+}
+
