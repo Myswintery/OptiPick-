@@ -44,6 +44,6 @@ Contributions are welcome!
 
 
 ## 💬 Author  
-**MysWintery**  
+**Faizah**  
 🎓 BSc. Information Technology | 💡 Data Scientist Enthusiast  
-📧 [Contact Here](mailto:myswgamex@gmail.com)
+📧 [Contact Here](mailto:faizah.mshoeb@gmail.com)
